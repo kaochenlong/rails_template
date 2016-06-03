@@ -1,1 +1,1 @@
-# rails_template
+# Rails Template
